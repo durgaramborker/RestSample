@@ -3,7 +3,7 @@
 A sample  MySql based REST deployment using jersey REST and maven.
 
 
- POSTMAN Querries
+ Querries
 1. GET-http://localhost:8080/RestSample/webapi/resources/getlist
 2. GET-http://localhost:8080/app/webapi/resources/getobject/{id} :get specific resource based on name.
 3. POST-http://localhost:8080/RestSample/webapi/resources/add :add resource
